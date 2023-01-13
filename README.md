@@ -1,2 +1,2 @@
 # Basic-Python
-Simple Python scripts
+Simple Python scripts for learning
